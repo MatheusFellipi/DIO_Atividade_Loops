@@ -1,5 +1,5 @@
 {
-  "java.project.sourcePaths": ["Atividade/src/loops"],
+  "java.project.sourcePaths": ["Atividade/src/loops", "Atividade/src/array"],
   "java.project.outputPath": "bin",
   "java.project.referencedLibraries": ["lib/**/*.jar"]
 }
